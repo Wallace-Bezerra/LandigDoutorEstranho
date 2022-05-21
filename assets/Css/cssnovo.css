@@ -1,0 +1,23 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.div-secao-principal {
+    background-image: url("/assets/img/fundo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    color: white;
+
+}
+
+.img-clea {
+    width: 100%;
+    height: 600px;
+    max-width: 900px;
+
+    mix-blend-mode: lighten;
+}
